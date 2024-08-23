@@ -17,7 +17,10 @@ This intricate process involves the meticulous arrangement of multiple component
 
 ### 2. Precise placement and rotation of the metal ring for the pivoting process 🔄
 The metal ring serves as a critical component in the assembly, facilitating the pivoting process essential for motor control applications. Achieving accurate placement and controlled rotation of the metal ring is paramount for optimal performance and reliability of the H-Bridge. Automation offers a tailored solution to this subtask by enabling precise positioning and controlled rotation through advanced robotic manipulators and vision systems. Sophisticated control algorithms will regulate the rotation of the metal ring, ensuring consistent and reliable operation, thereby enhancing the overall functionality and efficiency of the H-Bridge assembly process while maintaining stringent quality standards.
+
+
 ![prototype_pick_and_place_robot_arm](https://github.com/user-attachments/assets/18a78e7f-5d16-400b-9b8f-483d123a3204)
+
 
 
 ## Key Features and Innovations 🌟
